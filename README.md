@@ -79,12 +79,3 @@ Based on the modeling results, we recommend Big W:
 1.  **Optimize Store Placement**: Avoid direct co-location with Kmart/Target. Target sites with a **1-3km buffer** to capture spillover traffic without direct price cannibalization.
 2.  **Refine Targeting**: Shift marketing focus from generic "Young Singles" to **"Mainstream Families"** and **"Retirees"** in suburban areas, as they show higher basket sizes.
 3.  **Digital Integration**: Leverage the EDR program to gather more granular individual-level data, which could improve the R² of future predictive models by capturing personal preferences.
-
----
-
-### 💻 Code & Analysis Reference
-The complete data processing pipeline, model training scripts, and hyperparameter tuning logs are available in the associated Jupyter Notebook.
-
-> **File**: `Big W Written Report Group 28 Coding Part.ipynb`  
-> **Repository**: *[Insert Link to Your Repository Here]* > **Authors**: Group 28, USYD QBUS6600 (Semester 2, 2023)  
-> **Tech Stack**: Python (Pandas, Scikit-Learn, XGBoost, PyTorch, Optuna)
